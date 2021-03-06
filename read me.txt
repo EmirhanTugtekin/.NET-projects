@@ -1,0 +1,7 @@
+Bu projede staj yaptığım coiltech firmasının sipariş alma sistemini yaptım. 
+Projenin özellikleri şunlar:
+-Sipariş bilgilerini girip bu bilgileri veritabanına kaydetme
+-Sipariş kaydedince otomatik olarak eposta gönderme 
+-Liste ekranından eski siparişleri görüntüleme ve siparişler üzerinde arama yapma
+-Admin paneline şifre ile giriş yapıp zaten kaydedilmiş siparişleri silme veya güncelleme
+-Admin panelinde işlem yapılınca otomatik eposta gönderimi
