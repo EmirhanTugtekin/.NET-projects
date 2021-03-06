@@ -1,0 +1,14 @@
+C:\Users\Asusum\source\repos\coiltech\coiltech\bin\Debug\coiltech.exe.config
+C:\Users\Asusum\source\repos\coiltech\coiltech\bin\Debug\coiltech.exe
+C:\Users\Asusum\source\repos\coiltech\coiltech\bin\Debug\coiltech.pdb
+C:\Users\Asusum\source\repos\coiltech\coiltech\obj\Debug\coiltech.csprojAssemblyReference.cache
+C:\Users\Asusum\source\repos\coiltech\coiltech\obj\Debug\coiltech.Properties.Resources.resources
+C:\Users\Asusum\source\repos\coiltech\coiltech\obj\Debug\coiltech.csproj.GenerateResource.cache
+C:\Users\Asusum\source\repos\coiltech\coiltech\obj\Debug\coiltech.csproj.CoreCompileInputs.cache
+C:\Users\Asusum\source\repos\coiltech\coiltech\obj\Debug\coiltech.exe
+C:\Users\Asusum\source\repos\coiltech\coiltech\obj\Debug\coiltech.pdb
+C:\Users\Asusum\source\repos\coiltech\coiltech\obj\Debug\coiltech.frmUyfDuzenle2.resources
+C:\Users\Asusum\source\repos\coiltech\coiltech\obj\Debug\coiltech.frmListeEkrani.resources
+C:\Users\Asusum\source\repos\coiltech\coiltech\obj\Debug\coiltech.frmEposta.resources
+C:\Users\Asusum\source\repos\coiltech\coiltech\obj\Debug\coiltech.frmSifre.resources
+C:\Users\Asusum\source\repos\coiltech\coiltech\obj\Debug\coiltech.frmAdminPaneli.resources
